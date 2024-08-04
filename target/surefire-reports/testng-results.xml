@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-03T12:19:52 IST" name="Suite" finished-at="2024-08-03T12:20:30 IST" duration-ms="38841">
+    <groups>
+    </groups>
+    <test started-at="2024-08-03T12:19:52 IST" name="Test" finished-at="2024-08-03T12:20:30 IST" duration-ms="38841">
+      <class name="com.test.FitPeo">
+        <test-method signature="verifyRecurringReimbursement()[pri:0, instance:com.test.FitPeo@15bbf42f]" started-at="2024-08-03T12:19:52 IST" name="verifyRecurringReimbursement" finished-at="2024-08-03T12:20:30 IST" duration-ms="38815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRecurringReimbursement -->
+      </class> <!-- com.test.FitPeo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
